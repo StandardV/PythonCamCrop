@@ -17,9 +17,14 @@ Cam Crop using cv2
   
 ## Why did I decided to make the script:
  
- With all of that being said, seeing the auction content being distributed horizontally is not the best approach both mentally and physically since it would take a small amount of time for user to look back and fort, make decision between the price and so
+ With all of that being said, looking at the auctioning object at the left, and check the price the the right is not ideal. Hence seeing the auction content being distributed horizontally is not the best approach both mentally and physically since it would take a small amount of time for user to look back and fort, make decision between the price and so
  
   ==> Based on the conclusion, I've merged it all into a script that could solve this, display all auctioning information into one block and just press a button to buy instead of good old click and confirm type ( of course, the trade process can be done automatically by one script, you can check out the script OCRpyautogui- https://github.com/StandardV/OCR-with-Pyautogui that I have written) 
+  
+  ## The end result:
+  
+  ![GifMaker_20220901194149476](https://user-images.githubusercontent.com/76143641/188035368-12082034-7103-4c71-bae8-eecb90e61767.gif)
+
  
  
   
